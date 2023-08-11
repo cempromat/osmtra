@@ -1,0 +1,7 @@
+node_modules/
+configs/
+
+# Example output
+/search.db
+/search.json
+/search-compact.json
